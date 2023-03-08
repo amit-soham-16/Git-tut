@@ -1,4 +1,8 @@
-## This is a GitHub Turorial
+# This is a GitHub Turorial
 
-# Maaitrayo Das - GDSC LEAD
-#Koushik Das 
+
+### Maaitrayo Das - GDSC LEAD
+### Hrittik Garain - GDSC Android Lead
+### Koushik Das 
+### Welcome to our git tutorial 
+
